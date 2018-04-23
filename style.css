@@ -31,9 +31,27 @@
 }
 #contents1 {
   background-color: #ddffdd;
+  text-align:center;
   padding: 10px;
 }
 #contents2{
+  background-color: #ffff99;
+  text-align:center;
+  padding: 50px;
+}
+#contents3 {
+  background-color: #ddffdd;
+  padding: 10px;
+}
+#contents4 {
+  background-color: #ffff99;
+  padding: 50px;
+}
+#contents5 {
+  background-color: #ddffdd;
+  padding: 10px;
+}
+#contents6 {
   background-color: #ffff99;
   padding: 50px;
 }
